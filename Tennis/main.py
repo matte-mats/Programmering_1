@@ -7,7 +7,7 @@ from ball import Ball
 pygame.init()
 
 # Ange fönstrets dimensioner
-width = 850
+width = 800
 height = 650
 
 #Sätt uppdateringshastighet
